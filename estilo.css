@@ -71,5 +71,9 @@ h1 {
 .container-exercicioB{
     display: flex;
     flex-direction: column-reverse;
-
+}
+.container-desafio{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
 }
